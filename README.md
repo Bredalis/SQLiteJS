@@ -34,6 +34,16 @@
     ```
     git clone https://github.com/Bredalis/SQLiteJS.git
     ```
+
+2. Instalar Node.js - Guía de instalación:
+   ```
+   https://kinsta.com/es/blog/como-instalar-node-js/#cmo-instalar-nodejs-en-windows 
+   ```
+
+3. Para saber cómo trabajar con SQLite, ver documentación:
+   ```
+   https://www.sqlitetutorial.net/sqlite-max/
+   ```
     
 ## Uso ⚙️
 
@@ -43,19 +53,23 @@ Para ejecutar los archivos solo debes seguir estos pasos:
 
 2. 📟 Abrir tu cmd en Windows.
 
-3.  📁 Ubicarte en la carpeta SQLiteJS y poner node nombre-del-programa.js .
+3.  📁 Ubicarte en la carpeta SQLiteJS y poner node nombre-del-programa.js.
+
+<br>
 
 ## Licencia 📜
 
 Este proyecto está licenciado bajo la Licencia 📜 <a href="https://www.gnu.org/licenses/gpl-3.0.en.html" target="_blank">GPLv3 (GNU General Public License V3.0)</a>.
 
-## <img src="https://avatars.githubusercontent.com/u/111624948?s=400&u=cd081f79392220d8cd2a22f2a8d5d3b18814350a&v=4" width="50" height="50"> Hola, soy Bredalis Guerrero!
+<br>
+
+## <img src="https://avatars.githubusercontent.com/u/111624948?s=400&u=cd081f79392220d8cd2a22f2a8d5d3b18814350a&v=4" width="50" height="50"> <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%23FFFFFF&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Hola,+soy;Bredalis+Gautreaux!" width="auto" height="35"/>
 [![Github](https://img.shields.io/github/followers/Bredalis?label=Follow&style=social)](https://github.com/Bredalis)
 ![GitHub Followers](https://img.shields.io/github/stars/bredalis?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/bredalis_P?style=social)](https://twitter.com/bredalis_P)
 
-¡Hola! Mi nombre es Bredalis y actualmente estoy aprendiendo cosas como Linux y Docker 😄
-Me gusta mucho la programacion y la IA 😁
+😊 Soy una programadora con 3 años en este sector, me encanta crear y aprender constantemente. ¡Amo lo que hago! #nlp #ia 😊
 
 ## Mira mi perfil de GitHub:
 [![Web](https://img.shields.io/badge/GitHub-Bredalis-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/bredalis)
+
